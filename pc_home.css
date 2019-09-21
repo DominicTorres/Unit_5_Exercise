@@ -59,7 +59,6 @@ section#leftColumn{
 }
 
 
-
 /* Right Column Styles */
 
 section#rightColumn{
@@ -96,3 +95,4 @@ footer::after{
 	Content: "";
 	Display: table;
 }
+
